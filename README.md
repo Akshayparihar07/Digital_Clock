@@ -1,5 +1,7 @@
 # Clock
 
+![.](Clock.png)
+ 
  This project is a simple clock application written in Python using the Tkinter library. It displays the current time in 12-hour format, and updates every second.
 
 ## Getting Started
